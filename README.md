@@ -36,6 +36,11 @@ restarting it starts a fresh one. Everything works during the trial — the limi
 is on session length, not on features. The full version is bought once, through
 the app.
 
+## Privacy
+
+Luma Display collects nothing — no account, no analytics, no server of ours.
+[Privacy policy](privacy/)
+
 ## Source
 
 This repository holds downloads only. The source is not published.
