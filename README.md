@@ -6,14 +6,14 @@ Windows PC. It comes in two halves:
 | | |
 |---|---|
 | **The app** | [Google Play](https://play.google.com/store/apps/details?id=dev.l1nuxer.luma) |
-| **The Windows host** | [Latest release](../../releases/latest) — free, and required |
+| **The Windows host** | [Download LumaDisplaySetup.exe](https://github.com/L1nuxer-dev/luma-display-downloads/releases/latest/download/LumaDisplaySetup.exe) — free, and required |
 
 The app cannot work on its own. Install the host on a Windows 10 or 11 PC,
 then connect your device by USB cable or over the same Wi-Fi network.
 
 ## Installing the host
 
-1. Download `LumaDisplaySetup.exe` from the [latest release](../../releases/latest).
+1. Download `LumaDisplaySetup.exe` from the [latest release](https://github.com/L1nuxer-dev/luma-display-downloads/releases/latest).
 2. Run it. Windows may warn that the publisher is unknown — the installer is
    not yet code-signed. Choose **More info** then **Run anyway**.
 3. The installer sets up a virtual display driver, allows the two ports it uses
@@ -39,7 +39,7 @@ the app.
 ## Privacy
 
 Luma Display collects nothing — no account, no analytics, no server of ours.
-[Privacy policy](privacy/)
+[Privacy policy](https://l1nuxer-dev.github.io/luma-display-downloads/privacy/)
 
 ## Source
 
